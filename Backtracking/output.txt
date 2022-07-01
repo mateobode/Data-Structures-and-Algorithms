@@ -1,0 +1,2 @@
+selectez obiectul 1	selectez obiectul 3	
+Max profit= 9
